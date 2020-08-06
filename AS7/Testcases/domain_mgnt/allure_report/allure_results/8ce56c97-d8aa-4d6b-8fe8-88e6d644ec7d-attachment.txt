@@ -1,0 +1,16 @@
+C:\Users\gu.wenpeng\PycharmProjects\webconsoleuitest\allure_report/environment.properties
+('firewall-cmd --zone=public --add-port=9600/tcp;firewall-cmd --zone=public --add-port=3320/tcp;firewall-cmd --zone=public --add-port=9121/tcp;firewall-cmd --zone=public --add-port=9080/tcp;firewall-cmd --zone=public --add-port=8081/tcp;firewall-cmd --zone=public --add-port=1/tcp;firewall-cmd --zone=public --add-port=65535/tcp;',)
+update successfully! the number of rows affected:0
+没有验证码输入框 Message: no such element: Unable to locate element: {"method":"css selector","selector":"input[placeholder="请输入验证码"]"}
+  (Session info: chrome=83.0.4103.116)
+  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17134 x86_64)
+
+Response JSONDecodeError ! Expecting value: line 1 column 1 (char 0)
+None
+('64',)
+{'id': 'edd1c246-79be-4b99-97fc-8de501af9496', 'name': '禁用登录web客户端策略'}
+Response JSONDecodeError ! Expecting value: line 1 column 1 (char 0)
+{'id': '952f673f-f8b5-4fa0-921f-69b7194ea870', 'host': '10.2.182.21', 'type': 'child', 'network_type': 'direct', 'port': 443, 'app_id': 'admin', 'app_key': 'eisoo.cn'}
+Response JSONDecodeError ! Expecting value: line 1 column 1 (char 0)
+Response JSONDecodeError ! Expecting value: line 1 column 1 (char 0)
+update successfully! the number of rows affected:1
